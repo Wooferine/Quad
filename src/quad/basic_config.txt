@@ -1,0 +1,13 @@
+[RUNTIME]
+FPS                    = 60
+WIDTH                  = 800
+HEIGHT                 = 800
+
+[ENVIRONMENT]
+gravity                = 0.08
+
+[QUAD PHYSICS]
+mass                   = 1.0
+thruster_amplitude     = 0.04
+arm                    = 25
+moment_of_inertia      = 1.0
